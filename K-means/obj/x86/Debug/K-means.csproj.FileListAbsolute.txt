@@ -1,0 +1,6 @@
+E:\K-means\K-means\bin\Debug\K-means.exe
+E:\K-means\K-means\bin\Debug\K-means.pdb
+E:\K-means\K-means\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\K-means\K-means\obj\x86\Debug\K-means.exe
+E:\K-means\K-means\obj\x86\Debug\K-means.pdb
+E:\K-means\K-means\bin\Debug\Data.xlsx
